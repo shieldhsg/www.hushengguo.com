@@ -300,16 +300,19 @@ li{list-style-type:none}
 	background:#1B69A7;
 	text-decoration: none;
 }
+.column-nav-index {
+	padding-left: 7%;
+}
 
 .column-nav-index li{
 	float:left;
 	width:215px;
 	font-size:24px;
-	/*padding-right: 65px;*/
-	/*padding-left: 20px;*/
-	/*padding-bottom: 60px;*/
-	padding:0 43px 0 70px;
+	padding-left: 3%;
+	padding-right: 3%;
 }
+
+
 
 
 
