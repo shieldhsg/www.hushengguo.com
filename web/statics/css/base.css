@@ -309,7 +309,6 @@ li{list-style-type:none}
 	/*padding-left: 20px;*/
 	/*padding-bottom: 60px;*/
 	padding:0 43px 0 70px;
-	margin-left: 10px;
 }
 
 
@@ -362,7 +361,7 @@ li{list-style-type:none}
 	color:#000;
 	height:118px;
 	line-height: 118px;
-	padding-left:70px;
+	padding-left:30%;
 }
 
 .column-nav-index li a:hover,.column-nav-index li.cur h3.list-title{
@@ -374,7 +373,7 @@ li{list-style-type:none}
 	box-shadow: 0 0 5px #ccc;
 	height: 400px;
 	background:#fff;
-	margin-left: 50px;
+	margin-left: 45%;
 }
 .describe dt{
 
