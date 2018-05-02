@@ -358,6 +358,12 @@ li{list-style-type:none}
 	float:left;
 	padding-left: 4%;
 }
+@media screen and (min-width: 1201px) {
+	.list{
+		float:left;
+		padding-left: 7%;
+	}
+}
 
 .list-title{
 	font-size:25px;
