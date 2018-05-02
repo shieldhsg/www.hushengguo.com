@@ -356,7 +356,7 @@ li{list-style-type:none}
 }
 .list{
 	float:left;
-	padding:0 20px;
+	padding-left: 4%;
 }
 
 .list-title{
@@ -376,7 +376,7 @@ li{list-style-type:none}
 	box-shadow: 0 0 5px #ccc;
 	height: 400px;
 	background:#fff;
-	margin-left: 45%;
+	margin-left: 25%;
 }
 .describe dt{
 
