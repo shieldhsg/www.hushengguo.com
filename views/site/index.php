@@ -537,7 +537,7 @@
             <dl class="footer-list">
                 <div class="dt icon">备案信息</div>
                 <dd>伊春市童趣教育 版权所有</dd>
-                <dd>黑ICP-XXXXX号</dd>
+                <dd>黑ICP备18003536</dd>
             </dl>
         </div>
 
